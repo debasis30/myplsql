@@ -6,7 +6,7 @@
 --------------------------------------------------------
 set define off;
 
-  CREATE OR REPLACE PROCEDURE "PBATCH"."PRC_ACCOUNT_HOLDER" IS
+CREATE OR REPLACE PROCEDURE "PBATCH"."PRC_ACCOUNT_HOLDER" IS
 
    l_emp_name VARCHAR2(200);
    l_cust_name  VARCHAR2(200);
