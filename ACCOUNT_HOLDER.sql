@@ -16,7 +16,7 @@ BEGIN
      dbms_output.put_line('testing');
    
      IF l_emp_name = l_cust_name THEN
-     
+          
         dbms_output.put_line('Employee is a account holder in the Bank');   
      
      END IF;
