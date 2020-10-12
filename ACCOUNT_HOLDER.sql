@@ -11,7 +11,7 @@ CREATE OR REPLACE PROCEDURE "PBATCH"."PRC_ACCOUNT_HOLDER" IS
    l_emp_name VARCHAR2(200);
    l_cust_name  VARCHAR2(200);
 
-BEGIN
+BEGI
    
      dbms_output.put_line('testing');
    
